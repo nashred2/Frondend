@@ -1,0 +1,28 @@
+
+
+
+
+
+Retina
+un pixel equivale a 4 (1 a 4 px)
+
+
+
+stylus
+
+Encontrar la carpeta del css para compilar el archivo .styl
+cd /desktop/html/ect....
+
+Comando 
+pdw = para ver la ruta en la que estas posiscionado
+ls = ver archivos de la carpeta
+
+Compilar stylus nombre del archivo ejemplo  ( stylus puls4.styl )
+
+Compilar y comprimir codigo  stylus nombre del archivo -c ejemplo  ( stylus puls4.styl -c )
+
+Compilar y comprimir  y siempre codigo  stylus nombre del archivo -c -w  ejemplo  ( stylus puls4.styl -c -w )
+
+
+
+
